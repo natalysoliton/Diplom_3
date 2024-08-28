@@ -1,0 +1,12 @@
+ru\yandex\practicum\user\User.class
+ru\yandex\practicum\UserPage$1.class
+ru\yandex\practicum\constant\SectionName.class
+ru\yandex\practicum\RegisterPage.class
+ru\yandex\practicum\HomePage.class
+ru\yandex\practicum\LoginPage.class
+ru\yandex\practicum\HomePage$1.class
+ru\yandex\practicum\constant\ButtonNameForLogin.class
+ru\yandex\practicum\RestorePasswordPage.class
+ru\yandex\practicum\UserPage.class
+ru\yandex\practicum\constant\ButtonNameForConstructor.class
+ru\yandex\practicum\generator\UserGenerator.class
